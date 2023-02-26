@@ -20,3 +20,7 @@ To use this model, clone or download this repository and run the airline_satisfa
 
 Conclusion
 The Random Forest model built in this repository can accurately predict whether a customer is satisfied or dissatisfied with their airline experience with an accuracy of 95%. This model can be used by airlines to analyze customer satisfaction and improve their services accordingly.
+Due to feature selection and feature extraction techniques we have lost almost 1% of accuracy.The accuracy of models if all the features are as follows.
+1)RandomForest accuracy - 96.17920215581541%
+2)SVM classifier accuracy - 95.35152302584091
+3)ANN accuracy - 95.5488186324046%
